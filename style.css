@@ -51,6 +51,10 @@
     font-size: 25px;
 }
 
+.opButton {
+    background-color: rgb(240, 132, 93)
+}
+
 #zero {
     flex-grow: 2;
 }
